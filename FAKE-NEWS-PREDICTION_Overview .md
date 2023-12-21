@@ -1,4 +1,4 @@
-## Steps for Fake News Prediction System using Logistic Regression in Python:
+# Steps for Fake News Prediction System using Logistic Regression in Python:
 
 # Importing Dependencies:
 Import necessary libraries such as NumPy, pandas, and scikit-learn for data manipulation and machine learning.
